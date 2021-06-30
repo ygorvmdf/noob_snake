@@ -8,7 +8,7 @@ Antes de rodar instale a biblioteca pygame
 
     python3 -m pip install -U pygame --user
 
-Se não possui o comando pip instalado instale com o seguinte comando
+Se não possui o comando pip instalado rode o seguinte comando
 
     sudo apt install pip
 
