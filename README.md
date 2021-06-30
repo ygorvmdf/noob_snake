@@ -6,10 +6,10 @@ Este jogo é a primeira versão feita por mim, na linguaguem python utilizando a
 
 Antes de rodar instale a biblioteca pygame
 
-  python3 -m pip install -U pygame --user
+    python3 -m pip install -U pygame --user
 
 Se não possui o comando pip instalado instale com o seguinte comando
 
-  sudo apt install pip
+    sudo apt install pip
 
 Obrigado!!
